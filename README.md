@@ -11,6 +11,8 @@ All data is stored locally using CSV and JSON files—no database or internet co
 - Add new courses (default max marks = 5)
 - Remove existing courses along with all attendance records
 - List all courses with their metadata
+<img width="425" height="448" alt="image" src="https://github.com/user-attachments/assets/9f356dae-04c2-487d-a7ac-97cb7cd67ae6" />
+
 
 ### Attendance Tracking
 - Record attendance for any course for any date  
@@ -19,6 +21,8 @@ All data is stored locally using CSV and JSON files—no database or internet co
   - **A** → Absent  
 - Automatically updates existing entry if same date is recorded again
 - Dates follow format **DDMM** (defaults to today's date)
+<img width="389" height="406" alt="image" src="https://github.com/user-attachments/assets/8dba93c6-0861-4c2d-885b-22f1e1e0aee8" />
+
 
 ### Reporting & Analytics
 - Total classes recorded
@@ -32,11 +36,15 @@ All data is stored locally using CSV and JSON files—no database or internet co
   - ≥ 80% → 2 marks  
   - ≥ 75% → 1 mark  
   - < 75% → 0 marks (debarred)
+  <img width="311" height="193" alt="image" src="https://github.com/user-attachments/assets/ab6aff33-e2c7-453c-baff-de4290376c7f" />
+
 
 ### File-Based Storage
 - `courses.json` → stores all course names + metadata  
 - `attendance.csv` → stores all attendance rows  
 - Files are auto-created on first run
+<img width="212" height="100" alt="image" src="https://github.com/user-attachments/assets/78225d9b-de89-49fc-bc35-85dc16638f78" />
+
 
 ### CLI-Based Interface
 Simple commands like:
@@ -49,6 +57,8 @@ Simple commands like:
 - exit
 
 Supports numeric shortcuts (1–7) for convenience.
+<img width="598" height="164" alt="image" src="https://github.com/user-attachments/assets/513be408-05ec-4281-882f-7db444a12542" />
+
 
 ---
 
@@ -149,5 +159,6 @@ This project is created for academic coursework and educational use.
 CLI Attendance Manager
 
 ---
+
 
 
