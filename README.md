@@ -146,7 +146,8 @@ This project is created for academic coursework and educational use.
 ## Author
 
 **Shivraj Mulik**  
-CLI Attendance Manager — Build Your Own Project
+CLI Attendance Manager
 
 ---
+
 
