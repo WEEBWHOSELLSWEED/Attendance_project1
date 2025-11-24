@@ -36,7 +36,7 @@ All data is stored locally using CSV and JSON files—no database or internet co
   - ≥ 80% → 2 marks  
   - ≥ 75% → 1 mark  
   - < 75% → 0 marks (debarred)
-  <img width="311" height="193" alt="image" src="https://github.com/user-attachments/assets/ab6aff33-e2c7-453c-baff-de4290376c7f" />
+<img width="311" height="193" alt="image" src="https://github.com/user-attachments/assets/ab6aff33-e2c7-453c-baff-de4290376c7f" />
 
 
 ### File-Based Storage
@@ -159,6 +159,7 @@ This project is created for academic coursework and educational use.
 CLI Attendance Manager
 
 ---
+
 
 
 
