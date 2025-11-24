@@ -57,6 +57,7 @@ Simple commands like:
 - exit
 
 Supports numeric shortcuts (1–7) for convenience.
+
 <img width="598" height="164" alt="image" src="https://github.com/user-attachments/assets/513be408-05ec-4281-882f-7db444a12542" />
 
 
@@ -159,6 +160,7 @@ This project is created for academic coursework and educational use.
 CLI Attendance Manager
 
 ---
+
 
 
 
